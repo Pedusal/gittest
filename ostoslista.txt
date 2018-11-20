@@ -8,5 +8,4 @@ sipsii
 heijastin
 kahvia
 vissy
-
 karkkii
